@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+	font-family: "AudioWide";
+	src: url("./assets/fonts/audiowide/Audiowide-Regular.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Orbitron";
+	src: url("./assets/fonts/orbitron/Orbitron-Medium.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
