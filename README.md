@@ -11,3 +11,5 @@ There are two things to keep in mind when looking through this codebase.
 - All "back-end" functionality for this app is handled by a variety of smart contracts. All of these contracts were deployed to the Polygon testnet, so, to use this app, you simply need to connect a wallet and get some MATIC.
 - This app doesn't support betting with anything other than test tokens.
 - All "randomness" is handled by Chainlink's Verifiable Random Function.
+- The .env.example file is meant to serve as a reference for the environment variable configuration. It is **NOT** a secure and optimal storage solution for environment variables.
+- This application is no longer serviced by any of the third-party applications mentioned throughout the app.
